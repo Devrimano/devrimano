@@ -19,7 +19,7 @@ public class Developer
 
     public string Role = "Unity Developer";
 
-    public string Engine = "Unity 6";
+    public string Engine = "Unity";
 
     public string[] Languages =
     {
@@ -34,6 +34,7 @@ public class Developer
         "AI",
         "Optimization",
         "Game Architecture"
+        "Military Simulations"
     };
 
     public void Update()
@@ -45,8 +46,6 @@ public class Developer
     }
 }
 ```
-
----
 
 ## Tech Stack
 
@@ -73,27 +72,7 @@ public class Developer
 #  GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devrimano&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=devrimano&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrimano&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devrimano&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=Devrimano&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,7 +87,7 @@ public class Developer
 
 ---
 
-# Contribution Snake
+# Contribution
 
 <p align="center">
 
@@ -121,19 +100,13 @@ public class Developer
 # Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/devrimano">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-   
-
-<a href="https://www.linkedin.com/in/islam-valizada-010606351/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
+  <a href="https://www.instagram.com/the_valizada_">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/islam-valizada-010606351/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
 </p>
-
 ---
 
 <div align="center">
@@ -144,4 +117,6 @@ public class Developer
 
 </div>
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=gradient"/>
+</p>
